@@ -1,4 +1,4 @@
-## Hi there 👋, Welcome
+## Hi there 👋🏻, Welcome
 
 <!--
 **dhananjay2403/dhananjay2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'm Dhananjay Tiwari 👋
+# I'm Dhananjay Tiwari
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=0969DA&width=435&lines=Information+Technology+Student;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 ## About Me
 - B.Tech student in Information Technology
-- Passionate about software development and machine learning
-- AI/ML enthusiast focused on practical applications
+- Full Stack MERN Developer (MongoDB, Express, React, Node.js)
+- Machine Learning enthusiast with focus on Computer Vision applications
+- Passionate about building practical AI solutions for real-world problems
 - Constantly exploring new technologies and methodologies
 - Currently working on PhysioFlow-AI project
 
@@ -67,23 +68,22 @@ Here are some ideas to get you started:
 ## Projects
 
 ### PhysioFlow-AI
-- AI-powered physiotherapy assistant for personalized rehabilitation
-- Technologies: Python, TensorFlow, React
-- Status: In development
+- AI-powered physiotherapy assistant that democratizes access to quality rehabilitation
+- Provides real-time movement analysis and personalized feedback on exercise form
+- Helps patients with limited access to professionals, elderly individuals, and recovering athletes
+- Features include real-time pose detection, personalized coaching, and progress tracking
+- Built with React.js, TensorFlow.js, MediaPipe, Flask, MongoDB, and Groq's multimodal AI
 
-### [More projects coming soon...]
+### [Working on more projects...]
 
-## GitHub Stats
-<!-- Note: These GitHub stats are visible to anyone viewing your profile -->
+## Current Focus & Learning Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjay2403&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay2403&theme=tokyonight" alt="GitHub Streak" />
-</p>
+I'm currently focused on:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay2403&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- Building my portfolio of Machine Learning projects
+- Deep diving into Computer Vision applications in healthcare
+- Strengthening my full-stack development skills
+- Improving my algorithmic problem-solving abilities
 
 ## Competitive Programming
 <p align="left">
@@ -96,14 +96,19 @@ Here are some ideas to get you started:
 </p>
 
 ## Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/dhananjaytiwari24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/dhananjay2403" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:dhananjaytiwari2403@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
+
+
