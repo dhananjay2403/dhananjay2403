@@ -67,8 +67,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-### PhysioFlow-AI
-- AI-powered physiotherapy assistant that democratizes access to quality rehabilitation
+### PhysioFlow - AI powered physiotherapy assistant
 - Provides real-time movement analysis and personalized feedback on exercise form
 - Helps patients with limited access to professionals, elderly individuals, and recovering athletes
 - Features include real-time pose detection, personalized coaching, and progress tracking
@@ -95,20 +94,16 @@ I'm currently focused on:
   </a>
 </p>
 
+
 ## Connect With Me
 
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com/in/dhananjaytiwari24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dhananjay2403" target="_blank">
+  </a><a href="https://github.com/dhananjay2403" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dhananjaytiwari2403@gmail.com" target="_blank">
+  </a><a href="mailto:dhananjaytiwari2403@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
   </a>
-</p>
-
+</div>
 
