@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 # I'm Dhananjay Tiwari
 
+# Dhananjay Tiwari
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=0969DA&width=435&lines=Full+Stack+MERN+Developer;ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0891B2&background=FF673300&center=false&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1&height=70" alt="Typing SVG" />
 </p>
 
 ## About Me
-- B.Tech student in Information Technology
-- Full Stack MERN Developer (MongoDB, Express, React, Node.js)
+- B.Tech student in Information Technology, NSUT
+- Full Stack MERN Web Developer (MongoDB, Express, React, Node.js)
 - Machine Learning enthusiast with focus on Computer Vision applications
 - Passionate about building practical AI solutions for real-world problems
 - Constantly exploring new technologies and methodologies
