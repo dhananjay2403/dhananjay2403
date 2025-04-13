@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 # I'm Dhananjay Tiwari
 
-# Dhananjay Tiwari
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0891B2&background=FF673300&center=false&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1&height=70" alt="Typing SVG" />
 </p>
