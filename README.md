@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - Constantly exploring new technologies and methodologies
 - Currently working on PhysioFlow-AI project
 
+
 ## Technical Skills
 
 ### Programming Languages
@@ -65,34 +66,12 @@ Here are some ideas to get you started:
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![CN](https://img.shields.io/badge/CN-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
-## Projects
-
-### PhysioFlow - AI powered physiotherapy assistant
-- Provides real-time movement analysis and personalized feedback on exercise form
-- Helps patients with limited access to professionals, elderly individuals, and recovering athletes
-- Features include real-time pose detection, personalized coaching, and progress tracking
-- Built with React.js, TensorFlow.js, MediaPipe, Flask, MongoDB, and Groq's multimodal AI
-
-### [Working on more projects...]
-
 ## Current Focus & Learning Goals
-
-I'm currently focused on:
 
 - Building my portfolio of Machine Learning projects
 - Deep diving into Computer Vision applications in healthcare
 - Strengthening my full-stack development skills
 - Improving my algorithmic problem-solving abilities
-
-## Competitive Programming
-<p align="left">
-  <a href="https://leetcode.com/u/dhananjaytiwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="http://kaggle.com/dhananjaytiwari24" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
 
 
 ## Connect With Me
