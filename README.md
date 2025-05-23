@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ## About Me
 - B.Tech student in Information Technology, NSUT
+- Gaining practical experience in Machine Learning with a focus on Computer Vision through hands-on project development
 - Web Developer (React, JS, TailwindCSS, MaterialUI, HTML, CSS)
-- Machine Learning practitioner focused on Computer Vision, with hands-on project experience
 - Passionate about developing real-world AI solutions that solve meaningful problems
 - Continuously exploring and applying cutting-edge ML frameworks and techniques
 
@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://linkedin.com/in/dhananjaytiwari24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a><a href="https://github.com/dhananjay2403" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a><a href="mailto:dhananjaytiwari2403@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
   </a>
